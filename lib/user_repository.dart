@@ -12,8 +12,8 @@ class UserRepository {
     // 서버에서 받은 데이터라고 가정한 JSON 문자열
     String serverResponse = """
 {
-	"name": "이지원",
-	"age": 20
+  "name": "임우형",
+  "age": 20
 }
 """;
 
